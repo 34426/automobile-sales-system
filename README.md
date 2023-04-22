@@ -2,7 +2,7 @@
 
 
 
-## [基于SSM实现的汽车商城系统](https://github.com/34426/automobile-sales-system)
+## [基于SSM实现的汽车商城系统](https://github.com/34426/ssm_carstore)
 
 
 ### 有问题，或者不会调试运行的同学, 可以添加微信：xzxj0206
